@@ -3,7 +3,7 @@
 # How to build Docker image
   -clone the repository by using 
    ```sh
-   $ git clone "https://github.com/Nalagondap/Macaddress.git"
+   $ git clone https://github.com/Nalagondap/Macaddress.git
  ```
  -After that build the docker image using
  ```sh
