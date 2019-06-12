@@ -1,5 +1,5 @@
 # Introduction
-  - This repository describes about to get the output of company name associated with Mac address.
+   This repository describes about to get the output of company name associated with Mac address.
 # How to build Docker image
   Clone the repository using below command
    ```sh
