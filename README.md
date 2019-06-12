@@ -1,7 +1,7 @@
 # Introduction
   - These Repository describe about how to get the output of company name associated with Mac address.
 # How to build Docker image
-  clone the repository by using 
+  Clone the repository by using 
    ```sh
    $ git clone https://github.com/Nalagondap/Macaddress.git
  ```
