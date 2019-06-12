@@ -5,7 +5,7 @@
    ```sh
    $ git clone https://github.com/Nalagondap/Macaddress.git
  ```
- -After that build the docker image using
+ After that build the docker image using
  ```sh
  $ docker build -t macid .
  ```
